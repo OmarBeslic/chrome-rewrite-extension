@@ -1,0 +1,12 @@
+{
+	"manifest_version": 3,
+	"name": "What I Meant to Say",
+	"version": "1.0",
+	"description": "Rewrites your message with AI to match your tone",
+	"permissions": ["activeTab", "scripting", "storage"],
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": "icon.png"
+	},
+	"host_permissions": ["<all_urls>"]
+}

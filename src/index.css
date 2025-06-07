@@ -1,0 +1,65 @@
+.popup-container {
+  padding: 16px;
+  width: 320px;
+  font-family: "Inter", sans-serif;
+  background: #ffffff;
+}
+
+.popup-title {
+  margin-bottom: 8px;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.popup-label {
+  display: block;
+  margin: 8px 0 4px;
+  font-weight: 500;
+}
+
+.popup-textarea {
+  width: 100%;
+  resize: none;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.popup-select-wrapper {
+  margin-top: 12px;
+}
+
+.popup-select {
+  width: 100%;
+  padding: 6px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+
+.popup-button {
+  margin-top: 12px;
+  width: 100%;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.popup-button:hover {
+  background: #4338ca;
+}
+
+.popup-button.secondary {
+  margin-top: 8px;
+  background: #e2e8f0;
+  color: #1a202c;
+}
+
+.popup-output {
+  margin-top: 16px;
+}
