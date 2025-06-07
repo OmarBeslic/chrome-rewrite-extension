@@ -12,3 +12,10 @@ A Chrome extension that rewrites your messages in various tones (confident, conc
   - Add humor
 - Multilingual support (write in any language)
 - Works with free OpenRouter models
+
+### 📄 Disclaimer
+
+This project uses LLMs (language models) that may generate biased, offensive, or incorrect content.  
+The developers of this extension take **no responsibility for misuse** or consequences of AI-generated output.
+
+Always review messages before sending.
